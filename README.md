@@ -48,8 +48,8 @@ I am passionate about creating innovative tools that address real-world problems
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=Amazon-Product-Scraper-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Shwet310/Sorting_Visualizer" align="right">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=Sorting_Visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/Shwet310/A-Real-time-Chat-Application" align="right">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=A-Real-time-Chat-Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <br><br>
   <a href="https://github.com/Shwet310/Weather-detector" align="left">
