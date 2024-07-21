@@ -3,7 +3,7 @@
 Web Developer
 --------------------------------------
 
-I am a pre-final year student at the University of Lucknow, pursuing a major in Computer Science & Engineering.  
+I am a final year student at the University of Lucknow, pursuing a major in Computer Science & Engineering.  
 My primary interest lies in the domain of Web Development and Coding, where I am actively working to broaden my skill set.  
 I am passionate about creating innovative tools that address real-world problems and contribute to the advancement of technology.
 
