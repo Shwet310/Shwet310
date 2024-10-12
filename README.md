@@ -10,7 +10,7 @@ I am passionate about creating innovative tools that address real-world problems
 <br>
 
 - 🖥️ I'm a Postman Student Expert with Experience in API Development & Testing.
-- 🧠 Experience in C++ & Python
+- 🧠 Experience in C++, Python & JavaScript
 - 🌍 Check out my [LeetCode](https://leetcode.com/shwet_a), [HackerRank](https://www.hackerrank.com/profile/shweta3109555) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/shweta3109555) for my coding profile.
 
 
