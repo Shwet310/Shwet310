@@ -1,5 +1,4 @@
- # Hi there, I'm Shweta👋 <a href="https://www.github.com/Shwet310" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Shwet310?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+ # Hi there, I'm Shweta👋 
 Web Developer
 --------------------------------------
 
