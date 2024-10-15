@@ -1,6 +1,5 @@
- # Hi there, I'm Shweta👋 ### 👀 Profile views:
-
-![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
+ # Hi there, I'm Shweta👋 
+ 👀 Profile views:![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
 Web Developer
 --------------------------------------
