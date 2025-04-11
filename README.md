@@ -3,7 +3,7 @@
  
  ![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
-Web Developer
+Full Stack Web Developer
 --------------------------------------
 
 I am a final year student at the University of Lucknow, pursuing a major in Computer Science & Engineering.  
@@ -48,13 +48,16 @@ I am passionate about creating innovative tools that address real-world problems
 
 ### 🏅 Top Repositories:
 <div>
+ <a href="https://github.com/Shwet310/agritech" align="left">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=AgriTech-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
   <a href="https://github.com/Shwet310/Amazon-Product-Scraper-App" align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=Amazon-Product-Scraper-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Shwet310/A-Real-time-Chat-Application" align="right">
+<!--   <a href="https://github.com/Shwet310/A-Real-time-Chat-Application" align="right">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=A-Real-time-Chat-Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+  </a> -->
   <br><br>
   <a href="https://github.com/Shwet310/Weather-detector" align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=Weather-detector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
